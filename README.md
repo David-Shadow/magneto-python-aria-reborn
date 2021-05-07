@@ -84,24 +84,28 @@ stats - Bot Usage Stats
 help - Get Detailed Help
 log - Bot Log [owner only]
 ```
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Heroku Deployment?
 
-
-# How to deploy?
-Deploying is pretty much straight forward and is divided into several steps as follows:
-
-## Heroku Deployment?
-1)Fork/git the repo 
-2)upload token.pickle///if using SA then must upload token.pickle and token_sa.pickle..
-3)upload SA accounts folder to root repo
-4)upload credentials.json to root repo
-5)then click the da button below
+-Fork/git the repo 
+-upload token.pickle///if using SA then must upload token.pickle and token_sa.pickle..
+-upload SA accounts folder to root repo
+-upload credentials.json to root repo
+-then click the da button below
 
 <p align="center"><a href="https://heroku.com/deploy"> <img src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy to Heroku" /></a></p>
 
 # Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
 
 
-
+# How to deploy?
+Deploying is pretty much straight forward and is divided into several steps as follows:
 
 ## Installing requirements
 
