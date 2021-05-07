@@ -13,7 +13,7 @@ Not for mega links and magnet/torrents
 ```
 - Rename Drive files
 
-Let's have some chit chat here - [@Magneto_chit_chat](https://t.me/magneto_chit_chat)
+Let's have some chit chat here - [@MirrorLEech](https://t.me/mirrorLeech)
 Note :- it is not a Bot Support group. It's only for discussing rubbish things bcoz i want your help to learn coding 😜🤪.
 
 
@@ -88,6 +88,21 @@ log - Bot Log [owner only]
 
 # How to deploy?
 Deploying is pretty much straight forward and is divided into several steps as follows:
+
+## Heroku Deployment?
+1)Fork/git the repo 
+2)upload token.pickle///if using SA then must upload token.pickle and token_sa.pickle..
+3)upload SA accounts folder to root repo
+4)upload credentials.json to root repo
+5)then click the da button below
+
+<p align="center"><a href="https://heroku.com/deploy"> <img src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" alt="Deploy to Heroku" /></a></p>
+
+# Dont forget to give a star follow my github profile.....for more hroku modss/..//
+
+
+
+
 ## Installing requirements
 
 - Clone this repo:
